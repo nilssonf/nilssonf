@@ -2,7 +2,8 @@ Hello, I’m @nilssonf!
 
 - 👀 I’m interested in design, mediatechnics and webbmaking
 - 🌱 I’m currently studying Media production and processdesign at Malmö University
-- 📫 How to reach me ...
+- 🌱 Learning JavaScript
+- 📫 Contact me here on Github!
 
 <!---
 nilssonf/nilssonf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
